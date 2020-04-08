@@ -12,7 +12,7 @@ class smallobj               //define a class
 		void setdata(int d)    //member function to set data
 			{ somedata = d; }	
 		void showdata()        //member function to display data
-			{ cout << "Data is " << somedata << endl; }
+			{ cout << "Data is  " << somedata << endl; }
 };
 ////////////////////////////////////////////////////////////////
 int main()
